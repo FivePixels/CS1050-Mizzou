@@ -6,7 +6,6 @@
  * Lab: Lab 5
  * Section: H
  * Date: 03/04/2020
- * Pawprint: 12550356
  */
 void SumArrays(int array1[], int array2[], int arrayOut[], int size) {
 	for (int i=0; i<size; i++) {
