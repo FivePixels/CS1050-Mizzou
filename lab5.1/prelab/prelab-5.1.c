@@ -12,7 +12,7 @@ void Print2DArray(int array[][COLS], int rows) {
 }
 
 void PrintRowAverage(int array[][COLS], int whichrow) {
-	/* Instruction file specifies an integer to be returned, which doesn't make sense in context */
+	/* Instruction file should specify to return void */
 	int sum = 0;
 	float avg;
 	for (int i=0; i<COLS; i++) {
